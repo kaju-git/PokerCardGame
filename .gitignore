@@ -16,7 +16,7 @@
 Temp/
 Library/
 # Built player builds
-Build/
+/Build/
 # Asset database cache
 AssetStoreTools/
 # Logs
